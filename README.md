@@ -1,2 +1,2 @@
 # train_photo
-with dlib
+Train photos and facial recognition with dlib library
